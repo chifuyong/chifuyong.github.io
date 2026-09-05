@@ -1,0 +1,30 @@
+# robots.txt for chify's blog
+# https://cfyong.com
+# 最后更新: 2026-08-30
+
+User-agent: *
+Allow: /
+
+# 禁止爬取静态资源（节省爬取配额）
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+
+# 禁止爬取主题内部文件
+Disallow: /anzhiyu/
+
+# 允许所有搜索引擎
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# 站点地图
+Sitemap: https://cfyong.com/sitemap.xml
+
+# RSS 订阅
+# https://cfyong.com/atom.xml
