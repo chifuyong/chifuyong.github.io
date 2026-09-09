@@ -470,14 +470,7 @@
 
   
   <url>
-    <loc>https://cfyong.com/tags/Linux/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cfyong.com/tags/MySQL/</loc>
+    <loc>https://cfyong.com/tags/%E6%9D%82%E8%B0%88/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -485,27 +478,6 @@
   
   <url>
     <loc>https://cfyong.com/tags/Git/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cfyong.com/tags/Redis/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cfyong.com/tags/%E7%BC%93%E5%AD%98/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cfyong.com/tags/SQL/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -631,13 +603,6 @@
   </url>
   
   <url>
-    <loc>https://cfyong.com/tags/%E6%9D%82%E8%B0%88/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cfyong.com/tags/Hadoop/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -646,6 +611,41 @@
   
   <url>
     <loc>https://cfyong.com/tags/CentOS/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cfyong.com/tags/Linux/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cfyong.com/tags/MySQL/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cfyong.com/tags/Redis/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cfyong.com/tags/%E7%BC%93%E5%AD%98/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cfyong.com/tags/SQL/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -673,6 +673,13 @@
   </url>
   
   <url>
+    <loc>https://cfyong.com/tags/Shell/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://cfyong.com/tags/%E8%BD%AF%E4%BB%B6%E5%8C%85%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -681,13 +688,6 @@
   
   <url>
     <loc>https://cfyong.com/tags/Vim/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cfyong.com/tags/Shell/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -752,7 +752,7 @@
 
   
   <url>
-    <loc>https://cfyong.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <loc>https://cfyong.com/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -760,13 +760,6 @@
   
   <url>
     <loc>https://cfyong.com/categories/IT%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2026-09-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cfyong.com/categories/NoSQL/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -787,7 +780,14 @@
   </url>
   
   <url>
-    <loc>https://cfyong.com/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://cfyong.com/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cfyong.com/categories/NoSQL/</loc>
     <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
