@@ -161,9 +161,9 @@
       
         <tags>
             
-            <tag> CentOS </tag>
-            
             <tag> Linux </tag>
+            
+            <tag> CentOS </tag>
             
             <tag> Docker </tag>
             
@@ -215,9 +215,9 @@
       
         <tags>
             
-            <tag> Java </tag>
-            
             <tag> IntelliJ IDEA </tag>
+            
+            <tag> Java </tag>
             
             <tag> Maven </tag>
             
@@ -294,9 +294,9 @@
       
         <tags>
             
-            <tag> SSH </tag>
-            
             <tag> Linux </tag>
+            
+            <tag> SSH </tag>
             
             <tag> Shell </tag>
             
@@ -402,9 +402,9 @@
       
         <tags>
             
-            <tag> MinGW-w64 </tag>
-            
             <tag> Windows </tag>
+            
+            <tag> MinGW-w64 </tag>
             
         </tags>
       
@@ -772,9 +772,9 @@
       
         <tags>
             
-            <tag> CentOS </tag>
-            
             <tag> Linux </tag>
+            
+            <tag> CentOS </tag>
             
             <tag> 软件包管理 </tag>
             
@@ -1005,9 +1005,9 @@
       
         <tags>
             
-            <tag> Java </tag>
-            
             <tag> Linux </tag>
+            
+            <tag> Java </tag>
             
         </tags>
       
@@ -1244,9 +1244,9 @@
       
         <tags>
             
-            <tag> Windows </tag>
-            
             <tag> MySQL </tag>
+            
+            <tag> Windows </tag>
             
         </tags>
       
@@ -1255,17 +1255,6 @@
     
   
   
-    
-    
-    <entry>
-      <title></title>
-      <link href="/manifest.json"/>
-      <url>/manifest.json</url>
-      
-        <content type="html"><![CDATA[{"name":"chify's blog","short_name":"chify","description":"记录 Linux、Java、数据库和服务器运维的实践，分享开发工具、系统配置与问题排查经验。","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#425AEF","orientation":"portrait-primary","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/192.png","sizes":"192x192","type":"image/png"},{"src":"/img/siteicon/256.png","sizes":"256x256","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"},{"src":"/img/siteicon/manifest-icon-192.maskable.png","sizes":"192x192","type":"image/png","purpose":"maskable"},{"src":"/img/siteicon/manifest-icon-512.maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}]]></content>
-      
-    </entry>
-    
     
     
     <entry>
@@ -1280,11 +1269,11 @@
     
     
     <entry>
-      <title>关于我</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title></title>
+      <link href="/manifest.json"/>
+      <url>/manifest.json</url>
       
-        <content type="html"><![CDATA[<!-- 🌌 顶部大巨幕 Banner --><div class="sz-geek-banner" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); backdrop-filter: blur(10px); padding: 45px 24px; border-radius: 16px; text-align: center; margin-bottom: 30px; box-shadow: var(--anzhiyu-shadow); transition: all 0.3s ease;">  <img src="/img/avatar.png" alt="Avatar" style="width: 100px; height: 100px; border-radius: 50%; border: 3px solid var(--anzhiyu-theme); box-shadow: 0 0 15px var(--anzhiyu-theme-op); margin-bottom: 16px;">  <h1 style="margin: 0 0 8px 0; font-size: 2.2rem; color: var(--anzhiyu-fontcolor); font-weight: 700; border: none; padding: 0; letter-spacing: 2px;">歌 巫 昂 光</h1>  <p style="margin: 0; font-size: 1rem; color: var(--anzhiyu-secondtext); font-weight: 500;">📍 深圳 · Java Developer · 🎧 Music Lover</p></div><div class="about-responsive-container" style="display: flex; gap: 24px; flex-wrap: wrap; align-items: flex-start; width: 100%;">  <div class="about-md-zone" style="flex: 1.3; min-width: 320px; background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 16px; padding: 28px; box-shadow: var(--anzhiyu-shadow); box-sizing: border-box; transition: all 0.3s ease;">    <div class="custom-md-content">      <h2 style="margin-top: 0; color: var(--anzhiyu-fontcolor); border-bottom: 1px solid var(--anzhiyu-card-border); padding-bottom: 12px; font-size: 1.6rem; font-weight: 700;">🎭 关于歌巫昂光 (Geek Guang)</h2>      <p style="color: var(--anzhiyu-secondtext); font-size: 1.05rem; line-height: 1.8;">欢迎来到我的数字花园！</p>      <h3 style="color: var(--anzhiyu-theme); font-size: 1.25rem; margin-top: 24px; font-weight: 600;">🧭 名字的由来 (g-u-a-n-g)</h3>      <ul style="padding-left: 20px; color: var(--anzhiyu-fontcolor); line-height: 1.9; font-size: 1rem;">        <li><strong style="color: var(--anzhiyu-main);">歌</strong>：听最底层的代码之歌，探寻架构的艺术美感。</li>        <li><strong style="color: var(--anzhiyu-main);">巫</strong>：解最神秘的底层之巫，死磕 Tomcat NIO 源码。</li>        <li><strong style="color: var(--anzhiyu-main);">昂</strong>：气宇轩昂，在云原生和 Java 语言的浪潮中乱<strong>逛</strong>，寻找技术之<strong>光</strong>。</li>      </ul>      <h3 style="color: var(--anzhiyu-theme); font-size: 1.25rem; margin-top: 24px; font-weight: 600;">💻 我的技术栈</h3>      <ul style="padding-left: 20px; color: var(--anzhiyu-fontcolor); line-height: 1.9; font-size: 1rem;">        <li><strong style="color: var(--anzhiyu-main);">Java 骨灰级玩家</strong>：熟知 Tomcat 线程模型、JVM 调优。</li>        <li><strong style="color: var(--anzhiyu-main);">AI 应用探索者</strong>：狂热拥抱 AI、OpenCode、GitHub Copilot 智能体编程。</li>      </ul>      <h3 style="color: var(--anzhiyu-theme); font-size: 1.25rem; margin-top: 24px; font-weight: 600;">💬 欢迎互联</h3>      <p style="color: var(--anzhiyu-secondtext); font-size: 1rem; line-height: 1.8; margin-bottom: 0;">        如果你也对扒源码、玩技术感兴趣，欢迎在评论区留言。      </p>    </div>  </div>  <div class="about-sidebar-zone" style="flex: 0.7; min-width: 280px; display: flex; flex-direction: column; gap: 24px; box-sizing: border-box;">    <div class="about-music-zone" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 16px; padding: 24px; color: var(--anzhiyu-fontcolor); box-shadow: var(--anzhiyu-shadow); position: relative; overflow: hidden; transition: all 0.3s ease;">      <div style="position: absolute; top: -50px; right: -50px; width: 150px; height: 150px; background: rgba(56,189,248,0.12); filter: blur(40px); border-radius: 50%;"></div>      <div>        <h3 style="margin-top: 0; color: var(--anzhiyu-theme); font-size: 1.15rem; letter-spacing: 1px; margin-bottom: 24px; font-weight: 600;">🎧 程序员的深夜 BGM</h3>        <div style="display: flex; align-items: center; gap: 16px;">          <div class="vinyl-disc" style="width: 68px; height: 68px; background: radial-gradient(circle, #444 35%, #111 36%, #222 55%, #000 100%); border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: flex; align-items: center; justify-content: center; animation: spin 10s linear infinite;">            <div style="width: 22px; height: 22px; background: var(--anzhiyu-theme); border-radius: 50%; border: 3px solid var(--anzhiyu-card-bg);"></div>          </div>          <div>            <div style="font-weight: 700; font-size: 1.1rem; color: var(--anzhiyu-fontcolor); margin-bottom: 4px;">代码、咖啡与你</div>            <div style="font-size: 0.85rem; color: var(--anzhiyu-secondtext);">循环播放中...</div>          </div>        </div>      </div>      <div style="margin-top: 35px;">        <div style="width: 100%; height: 4px; background: var(--anzhiyu-card-border); border-radius: 2px; position: relative;">          <div style="width: 45%; height: 100%; background: var(--anzhiyu-theme); border-radius: 2px;"></div>          <div style="position: absolute; left: 45%; top: -4px; width: 12px; height: 12px; background: var(--anzhiyu-card-bg); border-radius: 50%; box-shadow: 0 0 8px var(--anzhiyu-theme-op);"></div>        </div>        <div style="display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--anzhiyu-secondtext); margin-top: 8px;">          <span>01:58</span>          <span>04:23</span>        </div>      </div>    </div>    <div class="about-grid-metrics" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; width: 100%;">      <div class="metric-tile" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 12px; padding: 16px; text-align: center; box-shadow: var(--anzhiyu-shadow);">        <div style="font-size: 1.5rem; margin-bottom: 4px;">☕</div>        <div style="font-weight: 700; color: var(--anzhiyu-fontcolor); font-size: 1rem;">Java</div>        <div style="font-size: 0.75rem; color: var(--anzhiyu-secondtext); margin-top: 2px;">核心基石</div>      </div>      <div class="metric-tile" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 12px; padding: 16px; text-align: center; box-shadow: var(--anzhiyu-shadow);">        <div style="font-size: 1.5rem; margin-bottom: 4px;">🏙️</div>        <div style="font-weight: 700; color: var(--anzhiyu-fontcolor); font-size: 1rem;">深圳</div>        <div style="font-size: 0.75rem; color: var(--anzhiyu-secondtext); margin-top: 2px;">坐标基地</div>      </div>      <div class="metric-tile" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 12px; padding: 16px; text-align: center; box-shadow: var(--anzhiyu-shadow);">        <div style="font-size: 1.5rem; margin-bottom: 4px;">🔍</div>        <div style="font-weight: 700; color: var(--anzhiyu-fontcolor); font-size: 1rem;">NIO 源码</div>        <div style="font-size: 0.75rem; color: var(--anzhiyu-secondtext); margin-top: 2px;">底层死磕</div>      </div>      <div class="metric-tile" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 12px; padding: 16px; text-align: center; box-shadow: var(--anzhiyu-shadow);">        <div style="font-size: 1.5rem; margin-bottom: 4px;">🎸</div>        <div style="font-weight: 700; color: var(--anzhiyu-fontcolor); font-size: 1rem;">Music</div>        <div style="font-size: 0.75rem; color: var(--anzhiyu-secondtext); margin-top: 2px;">灵魂解压</div>      </div>    </div>  </div></div><style>.sz-geek-banner, .about-md-zone, .about-music-zone, .metric-tile {  transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1), box-shadow 0.4s ease, background 0.3s ease, border-color 0.3s ease !important;}.sz-geek-banner:hover, .about-md-zone:hover, .about-music-zone:hover, .metric-tile:hover {  transform: translateY(-5px) !important;  box-shadow: var(--anzhiyu-shadow-light) !important;  border-color: var(--anzhiyu-theme) !important;}@keyframes spin {  from { transform: rotate(0deg); }  to { transform: rotate(360deg); }}@media screen and (max-width: 768px) {  .about-responsive-container {    flex-direction: column !important;  }  .about-sidebar-zone {    order: -1 !important;    flex: 1 1 100% !important;    width: 100% !important;    min-width: 100% !important;    margin-bottom: 0px;  }  .about-md-zone {    flex: 1 1 100% !important;    width: 100% !important;  }}</style>]]></content>
+        <content type="html"><![CDATA[{"name":"chify's blog","short_name":"chify","description":"记录 Linux、Java、数据库和服务器运维的实践，分享开发工具、系统配置与问题排查经验。","start_url":"/","display":"standalone","background_color":"#ffffff","theme_color":"#425AEF","orientation":"portrait-primary","icons":[{"src":"/img/siteicon/16.png","sizes":"16x16","type":"image/png"},{"src":"/img/siteicon/32.png","sizes":"32x32","type":"image/png"},{"src":"/img/siteicon/128.png","sizes":"128x128","type":"image/png"},{"src":"/img/siteicon/192.png","sizes":"192x192","type":"image/png"},{"src":"/img/siteicon/256.png","sizes":"256x256","type":"image/png"},{"src":"/img/siteicon/512.png","sizes":"512x512","type":"image/png"},{"src":"/img/siteicon/manifest-icon-192.maskable.png","sizes":"192x192","type":"image/png","purpose":"maskable"},{"src":"/img/siteicon/manifest-icon-512.maskable.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}]]></content>
       
     </entry>
     
@@ -1296,6 +1285,17 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于我</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<!-- 🌌 顶部大巨幕 Banner --><div class="sz-geek-banner" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); backdrop-filter: blur(10px); padding: 45px 24px; border-radius: 16px; text-align: center; margin-bottom: 30px; box-shadow: var(--anzhiyu-shadow); transition: all 0.3s ease;">  <img src="/img/avatar.png" alt="Avatar" style="width: 100px; height: 100px; border-radius: 50%; border: 3px solid var(--anzhiyu-theme); box-shadow: 0 0 15px var(--anzhiyu-theme-op); margin-bottom: 16px;">  <h1 style="margin: 0 0 8px 0; font-size: 2.2rem; color: var(--anzhiyu-fontcolor); font-weight: 700; border: none; padding: 0; letter-spacing: 2px;">歌 巫 昂 光</h1>  <p style="margin: 0; font-size: 1rem; color: var(--anzhiyu-secondtext); font-weight: 500;">📍 深圳 · Java Developer · 🎧 Music Lover</p></div><div class="about-responsive-container" style="display: flex; gap: 24px; flex-wrap: wrap; align-items: flex-start; width: 100%;">  <div class="about-md-zone" style="flex: 1.3; min-width: 320px; background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 16px; padding: 28px; box-shadow: var(--anzhiyu-shadow); box-sizing: border-box; transition: all 0.3s ease;">    <div class="custom-md-content">      <h2 style="margin-top: 0; color: var(--anzhiyu-fontcolor); border-bottom: 1px solid var(--anzhiyu-card-border); padding-bottom: 12px; font-size: 1.6rem; font-weight: 700;">🎭 关于歌巫昂光 (Geek Guang)</h2>      <p style="color: var(--anzhiyu-secondtext); font-size: 1.05rem; line-height: 1.8;">欢迎来到我的数字花园！</p>      <h3 style="color: var(--anzhiyu-theme); font-size: 1.25rem; margin-top: 24px; font-weight: 600;">🧭 名字的由来 (g-u-a-n-g)</h3>      <ul style="padding-left: 20px; color: var(--anzhiyu-fontcolor); line-height: 1.9; font-size: 1rem;">        <li><strong style="color: var(--anzhiyu-main);">歌</strong>：听最底层的代码之歌，探寻架构的艺术美感。</li>        <li><strong style="color: var(--anzhiyu-main);">巫</strong>：解最神秘的底层之巫，死磕 Tomcat NIO 源码。</li>        <li><strong style="color: var(--anzhiyu-main);">昂</strong>：气宇轩昂，在云原生和 Java 语言的浪潮中乱<strong>逛</strong>，寻找技术之<strong>光</strong>。</li>      </ul>      <h3 style="color: var(--anzhiyu-theme); font-size: 1.25rem; margin-top: 24px; font-weight: 600;">💻 我的技术栈</h3>      <ul style="padding-left: 20px; color: var(--anzhiyu-fontcolor); line-height: 1.9; font-size: 1rem;">        <li><strong style="color: var(--anzhiyu-main);">Java 骨灰级玩家</strong>：熟知 Tomcat 线程模型、JVM 调优。</li>        <li><strong style="color: var(--anzhiyu-main);">AI 应用探索者</strong>：狂热拥抱 AI、OpenCode、GitHub Copilot 智能体编程。</li>      </ul>      <h3 style="color: var(--anzhiyu-theme); font-size: 1.25rem; margin-top: 24px; font-weight: 600;">💬 欢迎互联</h3>      <p style="color: var(--anzhiyu-secondtext); font-size: 1rem; line-height: 1.8; margin-bottom: 0;">        如果你也对扒源码、玩技术感兴趣，欢迎在评论区留言。      </p>    </div>  </div>  <div class="about-sidebar-zone" style="flex: 0.7; min-width: 280px; display: flex; flex-direction: column; gap: 24px; box-sizing: border-box;">    <div class="about-music-zone" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 16px; padding: 24px; color: var(--anzhiyu-fontcolor); box-shadow: var(--anzhiyu-shadow); position: relative; overflow: hidden; transition: all 0.3s ease;">      <div style="position: absolute; top: -50px; right: -50px; width: 150px; height: 150px; background: rgba(56,189,248,0.12); filter: blur(40px); border-radius: 50%;"></div>      <div>        <h3 style="margin-top: 0; color: var(--anzhiyu-theme); font-size: 1.15rem; letter-spacing: 1px; margin-bottom: 24px; font-weight: 600;">🎧 程序员的深夜 BGM</h3>        <div style="display: flex; align-items: center; gap: 16px;">          <div class="vinyl-disc" style="width: 68px; height: 68px; background: radial-gradient(circle, #444 35%, #111 36%, #222 55%, #000 100%); border-radius: 50%; box-shadow: 0 4px 12px rgba(0,0,0,0.15); display: flex; align-items: center; justify-content: center; animation: spin 10s linear infinite;">            <div style="width: 22px; height: 22px; background: var(--anzhiyu-theme); border-radius: 50%; border: 3px solid var(--anzhiyu-card-bg);"></div>          </div>          <div>            <div style="font-weight: 700; font-size: 1.1rem; color: var(--anzhiyu-fontcolor); margin-bottom: 4px;">代码、咖啡与你</div>            <div style="font-size: 0.85rem; color: var(--anzhiyu-secondtext);">循环播放中...</div>          </div>        </div>      </div>      <div style="margin-top: 35px;">        <div style="width: 100%; height: 4px; background: var(--anzhiyu-card-border); border-radius: 2px; position: relative;">          <div style="width: 45%; height: 100%; background: var(--anzhiyu-theme); border-radius: 2px;"></div>          <div style="position: absolute; left: 45%; top: -4px; width: 12px; height: 12px; background: var(--anzhiyu-card-bg); border-radius: 50%; box-shadow: 0 0 8px var(--anzhiyu-theme-op);"></div>        </div>        <div style="display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--anzhiyu-secondtext); margin-top: 8px;">          <span>01:58</span>          <span>04:23</span>        </div>      </div>    </div>    <div class="about-grid-metrics" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; width: 100%;">      <div class="metric-tile" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 12px; padding: 16px; text-align: center; box-shadow: var(--anzhiyu-shadow);">        <div style="font-size: 1.5rem; margin-bottom: 4px;">☕</div>        <div style="font-weight: 700; color: var(--anzhiyu-fontcolor); font-size: 1rem;">Java</div>        <div style="font-size: 0.75rem; color: var(--anzhiyu-secondtext); margin-top: 2px;">核心基石</div>      </div>      <div class="metric-tile" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 12px; padding: 16px; text-align: center; box-shadow: var(--anzhiyu-shadow);">        <div style="font-size: 1.5rem; margin-bottom: 4px;">🏙️</div>        <div style="font-weight: 700; color: var(--anzhiyu-fontcolor); font-size: 1rem;">深圳</div>        <div style="font-size: 0.75rem; color: var(--anzhiyu-secondtext); margin-top: 2px;">坐标基地</div>      </div>      <div class="metric-tile" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 12px; padding: 16px; text-align: center; box-shadow: var(--anzhiyu-shadow);">        <div style="font-size: 1.5rem; margin-bottom: 4px;">🔍</div>        <div style="font-weight: 700; color: var(--anzhiyu-fontcolor); font-size: 1rem;">NIO 源码</div>        <div style="font-size: 0.75rem; color: var(--anzhiyu-secondtext); margin-top: 2px;">底层死磕</div>      </div>      <div class="metric-tile" style="background: var(--anzhiyu-card-bg); border: 1px solid var(--anzhiyu-card-border); border-radius: 12px; padding: 16px; text-align: center; box-shadow: var(--anzhiyu-shadow);">        <div style="font-size: 1.5rem; margin-bottom: 4px;">🎸</div>        <div style="font-weight: 700; color: var(--anzhiyu-fontcolor); font-size: 1rem;">Music</div>        <div style="font-size: 0.75rem; color: var(--anzhiyu-secondtext); margin-top: 2px;">灵魂解压</div>      </div>    </div>  </div></div><style>.sz-geek-banner, .about-md-zone, .about-music-zone, .metric-tile {  transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1), box-shadow 0.4s ease, background 0.3s ease, border-color 0.3s ease !important;}.sz-geek-banner:hover, .about-md-zone:hover, .about-music-zone:hover, .metric-tile:hover {  transform: translateY(-5px) !important;  box-shadow: var(--anzhiyu-shadow-light) !important;  border-color: var(--anzhiyu-theme) !important;}@keyframes spin {  from { transform: rotate(0deg); }  to { transform: rotate(360deg); }}@media screen and (max-width: 768px) {  .about-responsive-container {    flex-direction: column !important;  }  .about-sidebar-zone {    order: -1 !important;    flex: 1 1 100% !important;    width: 100% !important;    min-width: 100% !important;    margin-bottom: 0px;  }  .about-md-zone {    flex: 1 1 100% !important;    width: 100% !important;  }}</style>]]></content>
       
     </entry>
     
